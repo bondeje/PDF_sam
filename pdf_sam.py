@@ -1,7 +1,7 @@
 
 import sys, os
 # TODO: delete in final version
-sys.path.append(".\\submodules")
+sys.path.append(".\\ttkExt")
 
 import ttkExt.table as table
 

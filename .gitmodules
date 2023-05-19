@@ -2,5 +2,5 @@
 	path = lib
 	url = https://github.com/bondeje/ttkExt.git
 [submodule "submodules"]
-	path = submodules
+	path = ttkExt
 	url = https://github.com/bondeje/ttkExt.git
