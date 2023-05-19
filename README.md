@@ -9,4 +9,4 @@ from command line:
 
 loading files from a folder:
 
-[](samples/sample.PNG)
+![sample](samples/sample.JPG)
